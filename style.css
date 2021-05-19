@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+canvas {
+    border: solid 8px black;
+}
